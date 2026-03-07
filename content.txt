@@ -1,0 +1,9 @@
+1. Class and Object
+2. Class hac data/attributes and Func/method
+3. Why Python called Object oriented
+4. Why Python Object oriented > Bcz Everything inside the python is a an Object and these object is created by using class(data structure,data type)
+5. Advantage of Oops:
+  > Create your own datatype.
+  > code reusebility
+  > debugging
+  > easy to colab
