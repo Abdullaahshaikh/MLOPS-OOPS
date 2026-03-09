@@ -7,3 +7,16 @@
   > code reusebility
   > debugging
   > easy to colab
+
+
+6.End to end project chatbook
+  > func vs method
+  >magic method or dunder method
+  > self
+  > can create attributes outside  class as well
+
+  > encapsulation
+  > getter and setter
+  > static method
+
+  > inheritance

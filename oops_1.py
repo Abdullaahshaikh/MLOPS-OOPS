@@ -2,6 +2,7 @@
 class employee:
     #special method/magic /dunder method (Constructor)-
     def __init__(self):
+        print(id(self))
         print("started executing attributes/data")
         self.id= 1
         self.salary=1000
@@ -16,7 +17,12 @@ class employee:
         
 #Creating Object/Instance
 sam = employee()
+sam.name="sam k"
+#print(sam.name) can create attribut from outside class
+
+
 print(sam.id)
+print(id(sam))
 
 #calling a method:
 sam.travel("kerala")
@@ -24,4 +30,5 @@ sam.travel("kerala")
 a="x"
 b="y"
 print(a+b)
+
 
